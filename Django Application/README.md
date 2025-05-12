@@ -47,11 +47,11 @@ Please note that currently we have only pushed the image of 20 Frames model, If 
 
 `git clone https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning.git`
 
-#### Step 2: Create virtualenv (optional)
+#### Step 2: Create virtualenv 
 
 `python -m venv venv`
 
-#### Step 3: Activate virtualenv (optional)
+#### Step 3: Activate virtualenv 
 
 `venv\Scripts\activate`
 
@@ -63,7 +63,7 @@ Please note that currently we have only pushed the image of 20 Frames model, If 
 
 `Copy your trained model to the models folder i.e Django Application/models/`
 
-- You can download our trained models from [Google Drive](https://drive.google.com/drive/folders/1UX8jXUXyEjhLLZ38tcgOwGsZ6XFSLDJ-?usp=sharing)
+- 
 
 **Note :** The model name must be in specified format only i.e *model_84_acc_10_frames_final_data.pt*. Make sure that no of frames must be mentioned after certain 3 underscores `_` , in the above example the model is for 10 frames.
 
